@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/castings/castings.iml" filepath="$PROJECT_DIR$/castings/castings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/criandoVariaveis.iml" filepath="$PROJECT_DIR$/criandoVariaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiposDeDado/tiposDeDado.iml" filepath="$PROJECT_DIR$/tiposDeDado/tiposDeDado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiposOperadoresAritmeticos/tiposOperadoresAritmeticos.iml" filepath="$PROJECT_DIR$/tiposOperadoresAritmeticos/tiposOperadoresAritmeticos.iml" />
+    </modules>
+  </component>
+</project>
